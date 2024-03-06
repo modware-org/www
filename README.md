@@ -1,9 +1,4 @@
-# www
-
-+ [polish version - PL](https://docs.modware.org/README_PL.html)
-
-
-# What [**MODWARE**](https://docs.modware.org) is?
+# [**MODWARE**](https://docs.modware.org)
 
 
 ![logo](https://logo.modware.org/15/color_rectangle.png)
@@ -60,6 +55,12 @@ We know it and we are ready for it!
 + software
 + definitions
 + requierements
+
+## menu
+
++ [polish version - PL](https://docs.modware.org/README_PL.html)
+
+
 
 ---
 
