@@ -1,9 +1,78 @@
-
-
-
 ![logo](https://logo.modware.org/15/color_rectangle.png)
 
-# [MODWARE](https://docs.modware.org)
+# [MODWARE - Foundation-Centric Solutions](https://www.modware.org)
++ [Modware Docs](https://docs.modware.org/)
+
+
+## Goals  
++ Ideas based on Environmental Conditions
++ Idea centric by Research 
++ Conditions driven Standards 
+
+
+### Services
+
++ FaaS services - apiRPC.com
++ [researcher.pl](https://www.researcher.pl/)
+
+
+## Community
+
++ forties.plus - experience, experts, knwo how, investors
++ makerslab.info - learning by doing community
+
+
+
+## Standards
+
++ Schema
++ Patterns
+  
++ ndof [NDOF - Newline Delimited Objects Format - www.ndof.org](https://www.ndof.org/)
++ MetaModule - modular architectures with json schema [www.metamodule.org](https://www.metamodule.org/)
++ docs [metamodule.org](https://docs.metamodule.org/)
+
+## Interface
+
++ DigitalTwin
++ wetware human interface
+
+
+  
+## Desgin
+
++ book: [hypermodularity](http://www.hypermodularity.com)
++ blog: [hypermodular](http://www.hypermodular.com)
+
+
+
+## Libraries
+
+
+## Projects
+
+
+
+### Documentation
+
++ flatedit
++ plainedit
+
+
+### Languages
+
++ [DSL local commmand language - apiDSL.com](https://www.apidsl.com/)
+
+
+### techstack
+
+
+### patterns
+
+
+
+
+
 
 **MODWARE** provides solutions for building applications and services in any environment.
 The Foundation API based on shell scripts that allow you to retrieve, manage and publish Your data to various display services, run geoprocessing models, and more.
